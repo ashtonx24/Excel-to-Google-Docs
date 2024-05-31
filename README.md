@@ -18,3 +18,6 @@ Then, you will have to go to your system's environment variables and add that pa
 Now comes the libraries. Just run the following commands on the console of your idle or your command prompt and you are good to run the code.
 'pip install pandas openpyxl selenium'
 Don't forget to remove the inverted commas!
+
+Now, for the Xpaths that are in the code. Just open your google form, right click on the entry fields and click on inspect. A part will light up/ get highlighted on the screen that pops up, just right click on that and click on copy as XPATH.
+Then, you can replace easily.
